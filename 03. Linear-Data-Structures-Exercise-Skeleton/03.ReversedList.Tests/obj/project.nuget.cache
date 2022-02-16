@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PUnwsrSjGCXcSqdUMkxmtLj2+zJQzkuw1ZIPrQiZBasE7YhMFwWFiuyx4b3MHx/uYYFS1N1qALWLBxtdVCgNag==",
+  "dgSpecHash": "EOuW2/ABKYUao/5Wi67Sv0Dys5peLnr/52shiabP5K5eqcnWU81/y4A2dikCu3HVVrFP68+WNeVVJw5kvzHFfw==",
   "success": true,
-  "projectFilePath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj",
+  "projectFilePath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

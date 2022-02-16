@@ -28,3 +28,13 @@ D:\Trainings\Softuni\DataStructuresFundamentals\Exercise\03. Linear-Data-Structu
 D:\Trainings\Softuni\DataStructuresFundamentals\Exercise\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.csproj.CoreCompileInputs.cache
 D:\Trainings\Softuni\DataStructuresFundamentals\Exercise\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.dll
 D:\Trainings\Softuni\DataStructuresFundamentals\Exercise\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.pdb
+D:\Trainings\Softuni\DataStructuresFundamentals\Git\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\bin\Debug\netcoreapp3.1\01.CircularQueue.deps.json
+D:\Trainings\Softuni\DataStructuresFundamentals\Git\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\bin\Debug\netcoreapp3.1\01.CircularQueue.dll
+D:\Trainings\Softuni\DataStructuresFundamentals\Git\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\bin\Debug\netcoreapp3.1\01.CircularQueue.pdb
+D:\Trainings\Softuni\DataStructuresFundamentals\Git\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.csproj.AssemblyReference.cache
+D:\Trainings\Softuni\DataStructuresFundamentals\Git\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\Softuni\DataStructuresFundamentals\Git\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.AssemblyInfoInputs.cache
+D:\Trainings\Softuni\DataStructuresFundamentals\Git\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.AssemblyInfo.cs
+D:\Trainings\Softuni\DataStructuresFundamentals\Git\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.csproj.CoreCompileInputs.cache
+D:\Trainings\Softuni\DataStructuresFundamentals\Git\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.dll
+D:\Trainings\Softuni\DataStructuresFundamentals\Git\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.CircularQueue.pdb

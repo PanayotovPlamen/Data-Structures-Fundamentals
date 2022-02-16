@@ -4650,11 +4650,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\04.BP.Tests.csproj",
+      "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\04.BP.Tests.csproj",
       "projectName": "04.BP.Tests",
-      "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\04.BP.Tests.csproj",
+      "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\04.BP.Tests.csproj",
       "packagesPath": "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\",
-      "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\obj\\",
+      "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BP.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4675,8 +4675,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj": {
-              "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj"
+            "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj": {
+              "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj"
             }
           }
         }

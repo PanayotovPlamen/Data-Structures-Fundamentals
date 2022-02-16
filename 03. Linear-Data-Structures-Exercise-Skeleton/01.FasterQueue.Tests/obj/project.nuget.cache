@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n7fFfWHqroFFqv3j6jgmh8jFA7MKTFdp7LfAJIpXazyQ4kPdduQRbxNHhz6+f34UI8Ilcewj39UYDVF5weygCg==",
+  "dgSpecHash": "ZdsUBeX+JPjPGAaHi4DMqNY3jpMJJ2lXPvK9HmcSip71CWeU4LG7djxtVPSrilD+9SQe5SmA6I727benrDXQug==",
   "success": true,
-  "projectFilePath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.CircularQueue.Tests.csproj",
+  "projectFilePath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.CircularQueue.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
     "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

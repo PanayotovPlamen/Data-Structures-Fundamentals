@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj": {}
+    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj": {}
   },
   "projects": {
-    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj": {
+    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
+        "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
         "projectName": "04.BalancedParentheses",
-        "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
+        "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
         "packagesPath": "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\",
-        "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\obj\\",
+        "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

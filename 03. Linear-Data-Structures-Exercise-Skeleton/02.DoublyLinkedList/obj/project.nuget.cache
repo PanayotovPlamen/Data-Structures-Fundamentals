@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nzE2H5sEH982YbCSaDuc+X+NIQ33ZgGScLWlYpOcP7Swn2mO3CiHzPRGzoPnwGsX+8kqi336LGLulRWgdSrVtw==",
+  "dgSpecHash": "fan25TrFR0sDNTZ7NhPYZXCScgrwFiICBu6wgQqPFx9GlJMoVl7UT1VJVScsrcNPOVB2EyohxLL7XznOVLpu3g==",
   "success": true,
-  "projectFilePath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj",
+  "projectFilePath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

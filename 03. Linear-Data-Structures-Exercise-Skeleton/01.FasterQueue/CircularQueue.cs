@@ -74,14 +74,12 @@
         {
             var newArr = new T[this.elements.Length * 2];
 
-            var originalStartIndex = this.startIndex;
-
             for (int i = 0; i < this.Count; i++)
             {
-                newArr[i] = this.elements[originalStartIndex];
-
-                originalStartIndex = (originalStartIndex + 1) % this.elements.Length;
+                newArr[i] = this.elements[(this.startIndex + i) % this.elements.Length];
             }
+
+            return newArr;
         }
     }
 

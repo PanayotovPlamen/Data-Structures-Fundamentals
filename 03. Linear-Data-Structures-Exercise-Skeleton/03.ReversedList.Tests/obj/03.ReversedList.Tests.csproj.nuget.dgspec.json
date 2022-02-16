@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj": {}
+    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj": {
+    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj",
+        "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj",
         "projectName": "03.ReversedList.Tests",
-        "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj",
+        "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj",
         "packagesPath": "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\",
-        "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\obj\\",
+        "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj": {
-                "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj"
+              "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj": {
+                "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj": {
+    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj",
+        "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj",
         "projectName": "03.ReversedList",
-        "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj",
+        "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj",
         "packagesPath": "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\",
-        "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\obj\\",
+        "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

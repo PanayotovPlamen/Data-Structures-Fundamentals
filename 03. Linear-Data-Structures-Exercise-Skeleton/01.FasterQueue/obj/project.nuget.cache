@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QMzetKNIXmk//P9wCTF4c0DO0o6NLus/Ghracaw9BOEvp+cFhKbNuh3mbMvO75L9JPzM7A66PyJ1HMFODj5bow==",
+  "dgSpecHash": "+rN7b6OI+TcRW7KaN1Hbi5xGjYhdMHkbEKfj0GO9wpsgNWb6f6re+qLsO4Nz4k69NkSJZaLqlHYzSNYOf0oPQw==",
   "success": true,
-  "projectFilePath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.CircularQueue.csproj",
+  "projectFilePath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.CircularQueue.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

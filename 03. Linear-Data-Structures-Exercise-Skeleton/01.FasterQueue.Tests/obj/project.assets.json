@@ -3819,11 +3819,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.CircularQueue.Tests.csproj",
+      "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.CircularQueue.Tests.csproj",
       "projectName": "01.CircularQueue.Tests",
-      "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.CircularQueue.Tests.csproj",
+      "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.CircularQueue.Tests.csproj",
       "packagesPath": "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\",
-      "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\obj\\",
+      "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3844,8 +3844,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.CircularQueue.csproj": {
-              "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Exercise\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.CircularQueue.csproj"
+            "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.CircularQueue.csproj": {
+              "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.CircularQueue.csproj"
             }
           }
         }
