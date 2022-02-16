@@ -19,7 +19,20 @@
 
         public T Dequeue()
         {
-            throw new NotImplementedException();
+            if (this.Count == 0)
+            {
+                throw new InvalidOperationException();
+            }
+
+            var element = this.elements[startIndex];
+            
+            startIndex = (this.startIndex + 1) % this.elements.Length;
+
+            elements = CopyElements(new T[this.Count]);
+
+            Count--;
+
+            return element;
         }
 
         public void Enqueue(T item)
@@ -48,12 +61,17 @@
 
         public T Peek()
         {
-            throw new NotImplementedException();
+            if (this.Count == 0)
+            {
+                throw new InvalidOperationException();
+            }
+
+            return this.elements[startIndex];
         }
 
         public T[] ToArray()
         {
-            throw new NotImplementedException();
+            return this.CopyElements(new T[this.Count]);
         }
 
         IEnumerator IEnumerable.GetEnumerator()
@@ -63,23 +81,22 @@
 
         private void Grow()
         {
-            this.elements = this.CopyElements();
+            this.elements = this.CopyElements(new T[this.elements.Length * 2]);
 
             this.startIndex = 0;
 
             this.endIndex = this.Count;
         }
 
-        private T[] CopyElements()
-        {
-            var newArr = new T[this.elements.Length * 2];
-
-            for (int i = 0; i < this.Count; i++)
+        private T[] CopyElements(T[] resultArr)
+        {             
+           
+            for (int currentIndex = 0; currentIndex < this.Count; currentIndex++)
             {
-                newArr[i] = this.elements[(this.startIndex + i) % this.elements.Length];
+                resultArr[currentIndex] = this.elements[(this.startIndex + currentIndex) % this.elements.Length];
             }
 
-            return newArr;
+            return resultArr;
         }
     }
 
