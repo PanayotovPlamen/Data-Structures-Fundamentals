@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\Problem01.List.csproj",
+      "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\Problem01.List.csproj",
       "projectName": "Problem01.List",
-      "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\Problem01.List.csproj",
+      "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\Problem01.List.csproj",
       "packagesPath": "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\",
-      "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\obj\\",
+      "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

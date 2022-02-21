@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj": {}
+    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj": {}
   },
   "projects": {
-    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj": {
+    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj",
+        "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj",
         "projectName": "Problem03.Queue",
-        "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj",
+        "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj",
         "packagesPath": "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\",
-        "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\obj\\",
+        "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

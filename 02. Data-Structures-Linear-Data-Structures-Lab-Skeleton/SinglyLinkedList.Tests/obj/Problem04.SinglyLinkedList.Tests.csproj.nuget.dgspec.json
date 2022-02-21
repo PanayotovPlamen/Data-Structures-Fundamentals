@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\Problem04.SinglyLinkedList.Tests.csproj": {}
+    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\Problem04.SinglyLinkedList.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj": {
+    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
+        "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
         "projectName": "Problem04.SinglyLinkedList",
-        "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
+        "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
         "packagesPath": "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\",
-        "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\obj\\",
+        "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\Problem04.SinglyLinkedList.Tests.csproj": {
+    "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\Problem04.SinglyLinkedList.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\Problem04.SinglyLinkedList.Tests.csproj",
+        "projectUniqueName": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\Problem04.SinglyLinkedList.Tests.csproj",
         "projectName": "Problem04.SinglyLinkedList.Tests",
-        "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\Problem04.SinglyLinkedList.Tests.csproj",
+        "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\Problem04.SinglyLinkedList.Tests.csproj",
         "packagesPath": "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\",
-        "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\obj\\",
+        "outputPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj": {
-                "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj"
+              "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj": {
+                "projectPath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj"
               }
             }
           }

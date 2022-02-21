@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LHr0qEUnck5s9NJ7x/WFq1hifoTg0DVn48jfN/RyQNZojg+afFzvAyKBIPZtBQvQsj+nXhk/BtFVLvYbHah9WQ==",
+  "dgSpecHash": "xEu+mjTy09h1oqeySySM3rCBrw4gbXMDkGCRTkRpCNCcSZ7tdSCEM/5rxXikpAct+UTUBlmjRRE9ZANrF0gZMQ==",
   "success": true,
-  "projectFilePath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack.Tests\\Problem02.Stack.Tests.csproj",
+  "projectFilePath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack.Tests\\Problem02.Stack.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

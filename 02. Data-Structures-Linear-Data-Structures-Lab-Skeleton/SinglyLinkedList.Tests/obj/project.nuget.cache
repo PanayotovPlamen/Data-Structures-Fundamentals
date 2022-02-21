@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hkMV19fdAfettpGGb0MKEYPnx/0+qnPEmUqaiTAmbUr9N+ItAa89SVkpfkv0KhIpGd/U9zgMdqGdbxEl9RwspA==",
+  "dgSpecHash": "krfT2WC7FhN4ehCTKbjsSyPGWlOIuoUXCCyDzMRxogUcG/2Mh5uzLZDexYc6/0ritrD4bit9/o2z9dleukYxCQ==",
   "success": true,
-  "projectFilePath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Lab\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\Problem04.SinglyLinkedList.Tests.csproj",
+  "projectFilePath": "D:\\Trainings\\Softuni\\DataStructuresFundamentals\\Git\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\SinglyLinkedList.Tests\\Problem04.SinglyLinkedList.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\PlamenPanayotov\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
