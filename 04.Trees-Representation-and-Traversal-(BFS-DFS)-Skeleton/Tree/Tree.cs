@@ -2,16 +2,17 @@
 {
     using System;
     using System.Collections.Generic;
+    using System.Linq;
 
     public class Tree<T> : IAbstractTree<T>
     {
-        private readonly List<Tree<T>> children;
-        private T value;
+        private T Value;
+        private List<Tree<T>> children;        
         private Tree<T> parent;
 
         public Tree(T value)
         {
-            this.value = value;
+            this.Value = value;
 
             this.children = new List<Tree<T>>();
         }
@@ -28,7 +29,18 @@
 
         public void AddChild(T parentKey, Tree<T> child)
         {
-            throw new NotImplementedException();
+            var parentNode = this.FindNodeWithBfs(parentKey);
+
+            if (parentNode != null)
+            {
+                parentNode.children.Add(child);
+
+                child.parent = parentNode;
+            }
+            else
+            {
+                throw new ArgumentNullException();
+            }
         }
 
         public IEnumerable<T> OrderBfs()
@@ -42,7 +54,7 @@
             {
                 var subtree = queue.Dequeue();
 
-                result.Add(subtree.value);
+                result.Add(subtree.Value);
 
                 foreach (var child in subtree.children)
                 {
@@ -64,12 +76,53 @@
 
         public void RemoveNode(T nodeKey)
         {
-            throw new NotImplementedException();
+            var nodeToBeDeleted = this.FindNodeWithBfs(nodeKey);
+
+            if (nodeToBeDeleted is null)
+            {
+                throw new ArgumentNullException();
+            }
+            var parentNode = nodeToBeDeleted.parent;
+
+            if (parentNode is null)
+            {
+                throw new ArgumentException();
+            }
+
+            parentNode.children = parentNode.children.Where(x => !x.Value.Equals(nodeKey)).ToList();
+
+            nodeToBeDeleted.parent = null;
+
         }
 
         public void Swap(T firstKey, T secondKey)
         {
-            throw new NotImplementedException();
+            var firstNode = FindNodeWithBfs(firstKey);
+
+            var secondNode = FindNodeWithBfs(secondKey);
+
+            if (firstNode is null || secondNode is null)
+            {
+                throw new ArgumentNullException();
+            }
+
+            var firstParent = firstNode.parent;
+            var secondParent = secondNode.parent;
+
+            if (firstParent is null || secondParent is null)
+            {
+                throw new ArgumentException();
+            }
+
+            var indexOfFirstChild = firstNode.children.IndexOf(firstNode);
+            var indexOfSecondChild = secondNode.children.IndexOf(secondNode);
+
+            firstParent.children[indexOfFirstChild] = secondNode;
+            secondNode.parent = firstParent;
+
+            secondParent.children[indexOfSecondChild] = firstNode;
+            firstNode.parent = secondParent;
+            
         }
 
         private void Dfs(Tree<T> node, ICollection<T> result)
@@ -79,7 +132,31 @@
                 this.Dfs(child, result);
             }
 
-            result.Add(node.value);
+            result.Add(node.Value);
+        }
+
+        private Tree<T> FindNodeWithBfs(T parentKey)
+        {
+            var queue = new Queue<Tree<T>>();
+            
+            queue.Enqueue(this);
+
+            while (queue.Count > 0)
+            {
+                var subtree = queue.Dequeue();
+                
+                if (subtree.Value.Equals(parentKey))
+                {
+                    return subtree;
+                }
+
+                foreach (var child in subtree.children)
+                {
+                    queue.Enqueue(child);
+                }
+            }
+
+            return null;
         }
     }
 }
