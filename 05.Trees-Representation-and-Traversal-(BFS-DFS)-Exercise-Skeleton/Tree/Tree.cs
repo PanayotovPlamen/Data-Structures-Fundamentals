@@ -5,25 +5,36 @@
 
     public class Tree<T> : IAbstractTree<T>
     {
+        private List<Tree<T>> children;
+
         public Tree(T key, params Tree<T>[] children)
         {
-            throw new NotImplementedException();
+            this.Key = key;
+            this.children = new List<Tree<T>>();
+
+            foreach (var child in children)
+            {
+                this.AddChild(child);
+                child.Parent = this;
+            }
         }
 
         public T Key { get; private set; }
 
         public Tree<T> Parent { get; private set; }
 
-        public IReadOnlyCollection<Tree<T>> Children => throw new NotImplementedException();
+        public IReadOnlyCollection<Tree<T>> Children => this.children.AsReadOnly();
 
         public void AddChild(Tree<T> child)
         {
-            throw new NotImplementedException();
+            this.children.Add(child);
+            child.Parent = this;
         }
 
         public void AddParent(Tree<T> parent)
         {
-            throw new NotImplementedException();
+            this.Parent = parent;
+            parent.children.Add(this);
         }
 
         public string AsString()
