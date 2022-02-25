@@ -28,14 +28,12 @@
 
         public void AddChild(Tree<T> child)
         {
-            this.children.Add(child);
-            child.Parent = this;
+            this.children.Add(child);            
         }
 
         public void AddParent(Tree<T> parent)
         {
-            this.Parent = parent;
-            parent.children.Add(this);
+            this.Parent = parent;            
         }
 
         public string AsString()
@@ -70,7 +68,7 @@
         private void DfsAsString(StringBuilder sb, Tree<T> tree, int indent)
         {
             sb.Append(' ', indent)
-              .Append(tree.Key.ToString());
+              .AppendLine(tree.Key.ToString());
             //.AppendLine();
 
             foreach (var child in tree.children)

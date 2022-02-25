@@ -13,7 +13,7 @@
 
             var tree = treeFactory.CreateTreeFromStrings(input);
 
-            //Console.WriteLine(tree.AsString());
+            Console.WriteLine(tree.AsString());
         }
     }
 }

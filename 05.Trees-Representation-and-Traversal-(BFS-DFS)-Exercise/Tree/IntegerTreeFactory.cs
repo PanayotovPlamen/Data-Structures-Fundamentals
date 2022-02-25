@@ -20,7 +20,6 @@
                 var keys = inputLine.Split(' ').Select(int.Parse).ToArray();
 
                 var parent = keys[0];
-
                 var child = keys[1];
 
                 this.AddEdge(parent, child);
