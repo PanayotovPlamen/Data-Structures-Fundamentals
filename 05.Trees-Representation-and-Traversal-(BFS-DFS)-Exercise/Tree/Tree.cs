@@ -2,6 +2,7 @@
 {
     using System;
     using System.Collections.Generic;
+    using System.Text;
 
     public class Tree<T> : IAbstractTree<T>
     {
@@ -39,7 +40,11 @@
 
         public string AsString()
         {
-            throw new NotImplementedException();
+            var sb = new StringBuilder();
+
+            this.DfsAsString(sb, this, 0);
+
+            return sb.ToString().Trim();
         }
 
         public IEnumerable<T> GetInternalKeys()
@@ -60,6 +65,19 @@
         public IEnumerable<T> GetLongestPath()
         {
             throw new NotImplementedException();
+        }
+
+        private void DfsAsString(StringBuilder sb, Tree<T> tree, int indent)
+        {
+            sb.Append(' ', indent)
+              .Append(tree.Key.ToString());
+            //.AppendLine();
+
+            foreach (var child in tree.children)
+            {
+                this.DfsAsString(sb, child, indent + 2);
+            }
+
         }
     }
 }
