@@ -14,7 +14,7 @@ namespace _03.MinHeap
             this.elements = new List<T>();
         }
 
-        public int Count => throw new NotImplementedException();
+        public int Count => this.elements.Count;
 
         public void Add(T element)
         {

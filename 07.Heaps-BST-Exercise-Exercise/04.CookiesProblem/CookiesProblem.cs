@@ -9,7 +9,26 @@ namespace _04.CookiesProblem
     {
         public int Solve(int minSweetness, int[] cookies)
         {
-            throw new NotImplementedException();
+            var priorityQueue = new OrderedBag<int>();
+
+            priorityQueue.AddMany(cookies);
+
+            int currentMinSweetness = priorityQueue.GetFirst();
+            int steps = 0;
+
+            while (currentMinSweetness < minSweetness && priorityQueue.Count > 1) 
+            {
+                int leastSweekCookie = priorityQueue.RemoveFirst();
+                int secondCookie = priorityQueue.RemoveFirst();
+
+                int newCookie = leastSweekCookie + 2 * secondCookie;
+
+                priorityQueue.Add(newCookie);
+                currentMinSweetness = priorityQueue.GetFirst();
+                steps++;
+            }
+
+            return currentMinSweetness < minSweetness ? -1 : steps;
         }
     }
 }
