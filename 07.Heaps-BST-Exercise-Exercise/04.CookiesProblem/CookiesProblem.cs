@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-using _03.MinHeap;
-using Wintellect.PowerCollections;
+﻿using Wintellect.PowerCollections;
 
 namespace _04.CookiesProblem
 {
